@@ -18,3 +18,7 @@ B)Tools Used:
 
 *Key Focus:
 Understanding regional economic performance through data analysis and visualization.
+
+## Dashboard Preview
+
+![EU Economic Growth Dashboard](Screenshot 2026-11-15 012235.png)
